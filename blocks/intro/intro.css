@@ -4,6 +4,7 @@
   /* margin: 0 auto; */
   /* padding: 28px 48px 0; */
   max-width: 690px;
+  text-align: left;
 }
 
 @media (max-width: 1024px) {
@@ -16,5 +17,11 @@
   .intro {
     margin: 88px 24px 0;
     max-width: 720px;
+  }
+}
+@media (max-width: 320px) {
+  .intro {
+    margin: 64px 16px 0;
+    max-width: 285px;
   }
 }

@@ -11,3 +11,10 @@
 
   /* padding-top: 46px; */
 }
+
+@media (max-width: 320px) {
+  .intro_title {
+    font-size: 32px;
+    line-height: 1.09;
+  }
+}
