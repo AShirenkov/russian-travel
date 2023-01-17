@@ -14,3 +14,9 @@
     margin: 50px auto 31px;
   }
 }
+
+@media (max-width: 768px) {
+  .lead__title {
+    margin: 49px auto 31px;
+  }
+}

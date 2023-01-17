@@ -11,3 +11,9 @@
 
   /* padding-top: 46px; */
 }
+
+@media (max-width: 768px) {
+  .lead__caption {
+    margin-left: 23px;
+  }
+}
