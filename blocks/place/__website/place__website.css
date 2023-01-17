@@ -1,0 +1,9 @@
+.place__website {
+  grid-area: url;
+  align-self: flex-end;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  /* justify-content: space-between; */
+  justify-content: flex-end;
+}

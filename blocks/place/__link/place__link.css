@@ -1,0 +1,18 @@
+.place__link {
+  font-size: 18px;
+  line-height: 1.22;
+  font-style: normal;
+  font-weight: 400;
+  text-align: left;
+  /* margin: 57px auto 31px; */
+  padding: 0;
+  margin: 0;
+  max-width: 456px;
+
+  text-decoration: underline;
+  /* border-bottom: 1px #fff solid; */
+  color: white;
+  /* max-width: 690px; */
+
+  /* padding-top: 46px; */
+}
