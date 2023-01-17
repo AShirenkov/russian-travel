@@ -5,9 +5,17 @@
   font-weight: 400;
 
   text-align: center;
-  margin: 0;
-  padding: 0 172px;
+  margin: 0 auto;
+  padding: 0;
+  /* padding: 0 172px; */
+  max-width: 640px;
   margin-bottom: 64px;
 
   /* padding-top: 46px; */
+}
+
+@media (max-width: 1024px) {
+  .lead__subtitle {
+    margin-bottom: 56px;
+  }
 }
