@@ -20,3 +20,12 @@
     margin: 49px auto 31px;
   }
 }
+
+@media (max-width: 320px) {
+  .lead__title {
+    /* margin: 49px auto 31px; */
+    margin-bottom: 15px;
+    font-size: 40px;
+    line-height: 1.1;
+  }
+}
