@@ -12,3 +12,29 @@
 
   /* padding-top: 46px; */
 }
+
+@media (max-width: 1024px) {
+  .places__paragraph-item {
+    max-width: 456px;
+  }
+}
+
+@media (max-width: 768px) {
+  .place__paragraph-item {
+    max-width: 352px;
+    font-size: 16px;
+
+    line-height: 1.63;
+  }
+}
+
+@media (max-width: 320px) {
+  .place__paragraph-item {
+    max-width: 288px;
+    margin: 0 auto;
+    display: block;
+    /* font-size: 16px;
+
+    line-height: 1.63; */
+  }
+}

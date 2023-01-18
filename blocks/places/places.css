@@ -4,3 +4,23 @@
   padding: 0;
   margin-top: 92px;
 }
+
+@media (max-width: 1024px) {
+  .places {
+    max-width: 928px;
+  }
+}
+
+@media (max-width: 768px) {
+  .places {
+    max-width: 720px;
+    margin-top: 90px;
+  }
+}
+
+@media (max-width: 320px) {
+  .places {
+    max-width: 320px;
+    margin-top: 64px;
+  }
+}
