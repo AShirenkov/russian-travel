@@ -28,6 +28,10 @@
   top: 0;
   left: 0;
 }
+.cover::after,
+.cover:hover {
+  opacity: 0.8;
+}
 /* @media (max-width: 1024px) {
 
 } */
