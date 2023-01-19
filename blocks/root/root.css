@@ -7,3 +7,6 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
+.root {
+  background-color: #2a2c2f;
+}
