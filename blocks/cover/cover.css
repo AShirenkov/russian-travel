@@ -28,8 +28,7 @@
   top: 0;
   left: 0;
 }
-.cover::after,
-.cover:hover {
+.cover:hover::after {
   opacity: 0.8;
 }
 /* @media (max-width: 1024px) {
