@@ -17,17 +17,17 @@
     grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
     max-width: 928px;
   }
-}
+/* }
 @media (max-width: 1024px) {
   .photo-grid {
     gap: 14px;
     grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
     max-width: 928px;
   }
-}
+} */
 @media (max-width: 938px) {
   .photo-grid {
-    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    /* grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); */
     max-width: 720px;
   }
 }
@@ -37,7 +37,7 @@
     margin-top: 88px;
     gap: 16px;
     grid-template-columns: repeat(auto-fit, minmax(352px, 1fr));
-    max-width: 720px;
+    /* max-width: 720px; */
   }
 }
 

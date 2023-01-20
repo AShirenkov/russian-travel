@@ -11,6 +11,7 @@
 
 @media (max-width: 320px) {
   .header__lang-link {
-    font-size: 18px;
+    font-size: 19px;
+    padding-top: 30px;
   }
 }

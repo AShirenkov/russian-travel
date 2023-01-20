@@ -1,16 +1,4 @@
 .header__lang-links {
-  /* margin-top: 48px; */
   display: flex;
   gap: 18px;
 }
-
-@media (max-width: 320px) {
-  .header__lang-links {
-    margin-top: 31px;
-  }
-}
-/* @media (max-width: 768px) {
-  .header__lang-links {
-    margin-top: 48px;
-  }
-} */
