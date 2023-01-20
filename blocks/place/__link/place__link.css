@@ -10,17 +10,10 @@
   max-width: 456px;
 
   text-decoration: underline;
-  /* border-bottom: 1px #fff solid; */
   color: white;
 
   display: block;
 }
-/*
-@media (max-width: 1024px) {
-  .places__paragraph-item {
-    max-width: 456px;
-  }
-} */
 
 @media (max-width: 768px) {
   .place__link {

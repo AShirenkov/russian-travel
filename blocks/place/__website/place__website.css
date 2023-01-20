@@ -4,19 +4,13 @@
   display: flex;
   flex-direction: column;
   gap: 5px;
-  /* justify-content: space-between; */
+
   justify-content: flex-end;
   align-items: flex-start;
 }
-/* @media (max-width: 768px) {
-  .place__website {
-    gap: 5px;
-  }
-} */
 
 @media (max-width: 690px) {
   .place__website {
     margin: 0 16px;
-    /* gap: 6px; */
   }
 }

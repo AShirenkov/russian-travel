@@ -11,14 +11,3 @@
   color: #aaaaaa;
   text-transform: uppercase;
 }
-
-/* @media (max-width: 768px) {
-  .place__url-heading {
-    max-width: 352px;
-  }
-}
-@media (max-width: 690px) {
-  .place__url-heading {
-    max-width: 288px;
-  }
-} */
