@@ -6,15 +6,27 @@
   text-align: center;
   max-width: 560px;
   margin: 0 auto;
-  margin-bottom: 32px;
+  /* margin-bottom: 32px; */
 
   position: relative;
-  z-index: 2;
+}
+
+@media (max-width: 680px) {
+  .cover__title {
+    font-size: 52px;
+    /* margin-bottom: 24px; */
+  }
+}
+@media (max-width: 480px) {
+  .cover__title {
+    font-size: 36px;
+    /* margin-bottom: 24px; */
+  }
 }
 @media (max-width: 320px) {
   .cover__title {
     font-size: 32px;
     line-height: 1.09;
-    margin-bottom: 16px;
+    /* margin-bottom: 16px; */
   }
 }

@@ -5,7 +5,7 @@
     "img paragraph";
   row-gap: 47px;
   column-gap: 40px;
-  margin-bottom: 81px;
+  /* margin-bottom: 81px; */
 }
 
 @media (max-width: 1024px) {
@@ -20,10 +20,10 @@
   .place {
     column-gap: 28px;
     /* row-gap: 47px; */
-    margin-bottom: 72px;
+    /* margin-bottom: 72px; */
   }
 }
-@media (max-width: 320px) {
+@media (max-width: 690px) {
   .place {
     grid-template-areas:
       "title"
@@ -31,6 +31,7 @@
       "img"
       "paragraph";
     gap: 32px;
-    margin-bottom: 48px;
+
+    justify-content: center;
   }
 }
